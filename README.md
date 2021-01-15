@@ -3,6 +3,7 @@
   <h3>masterNotes 考研笔记📒</h3>
   <p>
     <a href="https://github.com/loyio/masterNotes/issues"><img alt="issues" src="https://img.shields.io/github/issues/loyio/masterNotes?style=flat-square"></a>
+    <a href="https://github.com/loyio/masterNotes/discussions"><img alt="issues" src="https://img.shields.io/badge/Discussions-Now-orange?style=flat-square"></a>
     <a href="https://github.com/loyio/masterNotes/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/loyio/masterNotes?style=flat-square"></a>
   </p>
 </div>
