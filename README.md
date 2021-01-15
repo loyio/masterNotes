@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 >masterNotes 考研笔记📒</h1>
+  <h3>masterNotes 考研笔记📒</h3>
 </div>
 
 -----
