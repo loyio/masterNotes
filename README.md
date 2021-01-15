@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/loyio/oss/main/masterNotes/masterNotes-logo20210115.png" alt="uPic">
   <h3>masterNotes 考研笔记📒</h3>
   <p>
-    [![GitHub release](https://img.shields.io/github/release/gee1k/uPic?label=version&style=flat-square&logo=GitHub)](https://github.com/gee1k/uPic/releases/latest)
-    [![Notes](https://img.shields.io/github/issues/loyio/masterNotes?style=flat-square)](https://github.com/loyio/masterNotes/issues)
-    [![MIT](https://img.shields.io/github/license/loyio/masterNotes?style=flat-square)](https://github.com/loyio/masterNotes/blob/main/LICENSE)
+    <a href="https://github.com/loyio/masterNotes/issues"><img alt="issues" src="https://img.shields.io/github/issues/loyio/masterNotes?style=flat-square"></a>
+    <a href="https://github.com/loyio/masterNotes/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/loyio/masterNotes?style=flat-square"></a>
   </p>
 </div>
 
